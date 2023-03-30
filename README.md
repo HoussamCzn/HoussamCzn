@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++, flutter**
 
-- 💬 Ask me about **C++, Linux or disk related issues**
+- 💬 Ask me about **C++ or Linux stuff**
 
 - 📫 How to reach me **cumzain.houssam@gmail.com**
 
