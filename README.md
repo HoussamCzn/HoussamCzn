@@ -1,7 +1,7 @@
 <h1 align="center">Yo 👋, I'm Houssam</h1>
 <h3 align="center">A student at Calais' Institute of Technology</h3>
 
-- 🌱 I’m currently learning **C++, flutter**
+- 🌱 I’m currently learning **C++** and AI development
 
 - 💬 Ask me about **C++ or Linux stuff**
 
