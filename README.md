@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++** and AI development
 
-- 💬 Ask me about **C++ or Linux stuff**
+- 💬 Ask me about **C++ or Linux** related issues
 
 - 📫 How to reach me **cumzain.houssam@gmail.com**
 
