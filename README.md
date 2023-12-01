@@ -2,7 +2,6 @@
 <h3 align="center">A student at Calais' Institute of Technology</h3>
 
 - 🌱 I’m currently learning **C++** and Web technologies
-- 
 - 📫 How to reach me **cumzain.houssam@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
